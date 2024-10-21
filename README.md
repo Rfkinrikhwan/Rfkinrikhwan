@@ -1,31 +1,25 @@
-## Hi, I'm Rifki Nur Ikhwan 👋
+### Hi, I'm Rifki Nur Ikhwan 👋
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rfkinrikhwan.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/rfkinrikhwan)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rfkinrikhwan)
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
+👩‍💻 I'm currently Freelance Developer
 
-🧠 I'm currently learning...
+🧠 I'm currently learning Backend
 
-👯‍♀️ I'm looking to collaborate on...
+💬 Ask me about project
 
-🤔 I'm looking for help with...
+📫 rifkinurikhwan9@gmail.com
 
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
+⚡️ Fun fact, I used to want to be a chef
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+HTML, CSS, JavaScript, TypeScript, PHP, Dart
 
 
