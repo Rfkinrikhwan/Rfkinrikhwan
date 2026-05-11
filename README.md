@@ -1,123 +1,138 @@
-<h1 align="center">Hey, I'm Rifki Nur Ikhwan 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Fullstack Web Developer</b> · Medan, Indonesia<br/>
-  Building clean, functional web apps from frontend to backend
-</p>
+# Rifki Nur Ikhwan
 
-<p align="center">
-  <a href="mailto:rifkinurikhwan9@gmail.com">📧 Email</a> ·
-  <a href="https://rfkinrikhwan.my.id">🌐 Website</a> ·
-  <a href="https://github.com/rifkinurikhwan">💻 GitHub</a>
-</p>
+**Fullstack Web Developer** · Medan, Indonesia 🇮🇩
+
+*Building clean, functional web apps — from pixel to server*
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rfkinrikhwan.my.id-black?style=for-the-badge)](https://rfkinrikhwan.my.id)
+[![Email](https://img.shields.io/badge/📧_Email-rifkinurikhwan9@gmail.com-black?style=for-the-badge)](mailto:rifkinurikhwan9@gmail.com)
+
+</div>
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+<div align="center">
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Backend**
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Database & Tools**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 Masterjems — Therapy Clinic Management System
-> Laravel 11 · Vue 3 · MySQL
-
-A specialized clinic management system replacing manual scheduling and record-keeping with a full digital solution.
-- Therapist-centric booking with real-time slot management
-- Electronic Medical Record (EMR) module with longitudinal patient history
-- Custom POS supporting bundled treatments, down payments & split payments
-- Role-based dashboards for therapists and admins
-
----
-
-### 🎓 Shanrise Web Admin — E-Learning & Institution Management
-> React.js · TypeScript · Vite
-
-A modern LMS tailored for psychology tutoring students.
-- Computer Based Test (CBT) module with dynamic question management & auto-grading
-- Digital Signature Verification for official certificates
-- Online Registration Workflow integrated into admin panel
-- Financial module (cash book) for daily operations
-
----
-
-### 🧵 JDM Store — Textile & Tailoring Management System
-> React.js · Laravel
-
-A retail + production system bridging sales and custom tailoring services.
-- Multi-dimensional inventory (Category → Fabric → Color → Size)
-- Custom stitching orders with fabric & measurement assignments
-- Member portal authentication for loyal customers
-- High-performance POS for mixed cart transactions
-
----
-
-### 🚢 SIKAPSU — Maritime Licensing Application
-> Laravel · Svelte
-
-Web application for maritime vessel licensing management.
-- Application submission & vessel data management
-- Regional master data & deletion request handling
-- Streamlined verification for maritime authorities
-
----
-
-### 👗 Bridetobe.id — Clothing Rental Admin Panel
-> Laravel · Inertia.js · React.js
-
-Full-stack admin panel for clothing rental management (dresses, suits, shoes, accessories).
-- Inventory tracking system
-- Rental booking & catalog management
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Masterjems</h3>
+      <p><b>Therapy Clinic Management System</b></p>
+      <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vue_3-35495E?style=flat&logo=vue.js&logoColor=4FC08D"/>
+      <br/><br/>
+      <ul>
+        <li>Real-time therapist booking & slot management</li>
+        <li>Electronic Medical Record (EMR) module</li>
+        <li>Custom POS with split payment support</li>
+        <li>Role-based dashboards (Therapist & Admin)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Shanrise Web Admin</h3>
+      <p><b>E-Learning & Institution Management</b></p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+      <br/><br/>
+      <ul>
+        <li>CBT module with auto-grading</li>
+        <li>Digital Signature Verification system</li>
+        <li>Online registration workflow</li>
+        <li>Financial cash book module</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧵 JDM Store</h3>
+      <p><b>Textile & Tailoring Management System</b></p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
+      <br/><br/>
+      <ul>
+        <li>Multi-dimensional inventory system</li>
+        <li>Custom stitching order management</li>
+        <li>Member portal authentication</li>
+        <li>Mixed cart POS (retail + stitching)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚢 SIKAPSU</h3>
+      <p><b>Maritime Licensing Application</b></p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white"/>
+      <br/><br/>
+      <ul>
+        <li>Vessel licensing & data management</li>
+        <li>Regional master data management</li>
+        <li>Streamlined document verification</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💼 Experience
 
-| Period | Role | Company |
-|--------|------|---------|
-| Aug 2024 – Aug 2025 | Software Engineering Teacher | SMKS Khaidir Nur Binjai |
-| 2022 – 2025 | Web Developer (Contract) | KitaKale.ID |
-| 2023 – 2024 | Mobile Developer (Part-time) | KitaKale.ID |
-| 2023 – 2025 | Fullstack Developer (Freelance) | KitaKale.ID |
-| Jul – Sep 2025 | Frontend Developer (Freelance) | Faria Org |
+```
+🏫  Software Engineering Teacher    SMKS Khaidir Nur Binjai     Aug 2024 – Aug 2025
+💻  Web Developer (Contract)        KitaKale.ID                 2022 – 2025
+📱  Mobile Developer (Part-time)    KitaKale.ID                 2023 – 2024
+🛠️  Fullstack Developer (Freelance) KitaKale.ID                 2023 – 2025
+🎨  Frontend Developer (Freelance)  Faria Org                   Jul – Sep 2025
+```
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifkinurikhwan&show_icons=true&theme=default&hide_border=true" alt="Rifki's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifkinurikhwan&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rifkinurikhwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifkinurikhwan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rifkinurikhwan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Open to freelance projects & collaborations — feel free to reach out!</i>
-</p>
+<div align="center">
+
+*Open to freelance projects & collaborations — feel free to reach out!* 🤝
+
+</div>
