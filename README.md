@@ -36,7 +36,6 @@ const rifki = {
     database: ["MySQL", "Supabase"],
     tools:    ["Git", "RESTful API", "Inertia.js"],
   },
-  funFact: "I also teach Software Engineering to high schoolers 🏫",
 };
 ```
 
