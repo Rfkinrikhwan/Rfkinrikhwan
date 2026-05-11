@@ -113,8 +113,8 @@ const rifki = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rfkinrikhwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rfkinrikhwan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff" height="180"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Rfkinrikhwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rfkinrikhwan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff" height="180"/> -->
 
 <br/><br/>
 
