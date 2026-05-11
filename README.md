@@ -125,7 +125,7 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rifkinurikhwan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rfkinrikhwan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
